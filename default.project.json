@@ -1,0 +1,15 @@
+{
+	"name": "RoEconomy",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Packages": {
+				"$path": "Packages",
+				"RoEconomy": {
+					"$path": "src"
+				}
+			}
+		}
+	}
+}
